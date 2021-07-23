@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-
-[![Bohyun GitHub stats](https://github-readme-stats.vercel.app/api?username=Bohyun)](https://github.com/seo-bo-hyun/github-readme-stats)
-![Bohyun GitHub stats](https://github-readme-stats.vercel.app/api?username=Bohyun&show_icons=true&theme=radical)
+![Bohyun GitHub stats](https://github-readme-stats.vercel.app/api?username=Bohyun&show_icons=true&theme=dracula)
 
 
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
