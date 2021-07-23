@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-#FF5252?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="mailto:tjqhgus1011@gmail.com"target="_blank"><img src="https://img.shields.io/badge/Gmail-FF5252?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+
 
