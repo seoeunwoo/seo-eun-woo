@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-<a href="https://simpleicons.org/?q=python" target="_blank"><img src="https://img.shields.io/badge/서보현-#FF5252?style=flat-square&logo=Python&logoColor=white"/></a>
+<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
