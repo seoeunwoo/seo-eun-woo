@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 ![Bohyun GitHub stats](https://github-readme-stats.vercel.app/api?username=Bohyun&show_icons=true&theme=dracula)
-[![Solved.acseo-bo-hyun](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
