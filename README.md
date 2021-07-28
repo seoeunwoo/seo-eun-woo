@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 -->
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Bohyun'sGithub%20&height=300&fontSize=100&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Bohyun's_Github%20&height=300&fontSize=100&textBg=true)
 
 
 ![Bohyun GitHub stats](https://github-readme-stats.vercel.app/api?username=Bohyun&show_icons=true&theme=dracula)
