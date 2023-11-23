@@ -1,5 +1,5 @@
 ### Hi there 👋
-안녕하세요 Full Stack 개발자 서보현 입니다
+안녕하세요 Full Stack 개발자 은우 입니다
 
 <!--
 **seo-bo-hyun/seo-bo-hyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
